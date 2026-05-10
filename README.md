@@ -1,3 +1,31 @@
+<style>
+  .wrapper {
+    max-width: 900px;
+  }
+
+  .page-content {
+    padding-top: 40px;
+  }
+
+  h2 {
+    margin-top: 32px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #555;
+  }
+
+  h3 {
+    margin-top: 28px;
+  }
+
+  p {
+    line-height: 1.6;
+  }
+
+  table {
+    margin-top: 15px;
+  }
+</style>
+
 **Welcome to my portfolio.**
 
 This site highlights my current work, school projects, and personal software projects. My background is split between quality inspection work and software development, so many of my projects focus on practical tools, organized data, and workflow improvement.
