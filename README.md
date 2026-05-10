@@ -135,4 +135,5 @@ I am especially interested in tools that make it easier to organize technical in
 
 You can view my work here on GitHub and follow my progress as I continue building projects related to software development, quality control, workflow improvement, and scoring tools.
 
-**GitHub:** [austinaohara](https://github.com/austinaohara)
+**GitHub:** [austinaohara](https://github.com/austinaohara)  
+**LinkedIn:** [Austin O'Hara](https://www.linkedin.com/in/austin-o-hara-a497a0409/)
