@@ -1,6 +1,4 @@
-## About This Portfolio
-
-This site highlights my current work, school projects, and personal software projects. My background is split between quality inspection work and software development, so most of my projects are focused on practical tools, organized data, and workflow improvement.
+Welcome to my portfolio. This site highlights my current work, school projects, and personal software projects. My background is split between quality inspection work and software development, so many of my projects focus on practical tools, organized data, and workflow improvement.
 
 ---
 
