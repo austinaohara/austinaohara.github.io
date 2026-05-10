@@ -1,6 +1,6 @@
-## Welcome
+**Welcome to my portfolio.**
 
-Welcome to my portfolio. This site highlights my current work, school projects, and personal software projects. My background is split between quality inspection work and software development, so many of my projects focus on practical tools, organized data, and workflow improvement.
+This site highlights my current work, school projects, and personal software projects. My background is split between quality inspection work and software development, so many of my projects focus on practical tools, organized data, and workflow improvement.
 
 ---
 
