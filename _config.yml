@@ -1,5 +1,5 @@
-title: Austin O'Hara
-description: Portfolio
+title: "Austin O'Hara"
+description: "Portfolio"
 theme: minima
 
 github_username: austinaohara
@@ -9,17 +9,17 @@ projects:
   partplan:
     name: PartPlan
     url: "https://github.com/austinaohara/PartPlan"
-    description: Inspection planning and part documentation tool
-    status: School Project
+    description: "Inspection planning and part documentation tool"
+    status: "School Project"
 
   business_management:
     name: Business_Management
     url: "https://github.com/austinaohara/Business_Management"
-    description: Business data and management application
-    status: School Project
+    description: "Business data and management application"
+    status: "School Project"
 
   leeway_calculator:
     name: Leeway Calculator
     url: "#"
-    description: Private osu! tool that calculates beatmap max score and tracks missed points during play
-    status: Private
+    description: "Private osu! tool that calculates beatmap max score and tracks missed points during play"
+    status: "Private"
