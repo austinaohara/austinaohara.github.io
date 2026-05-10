@@ -2,11 +2,9 @@ title: Austin O'Hara
 description: Senior Quality Technician, CMM Programming, and Computer Science Student
 theme: minima
 
-author:
-  name: Austin O'Hara
+author: Austin O'Hara
 
-github:
-  username: austinaohara
+github_username: austinaohara
 
 projects:
   partplan:
