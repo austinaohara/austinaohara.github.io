@@ -1,4 +1,4 @@
-# Portfolio
+## About This Portfolio
 
 This site highlights my current work, school projects, and personal software projects. My background is split between quality inspection work and software development, so most of my projects are focused on practical tools, organized data, and workflow improvement.
 
@@ -10,17 +10,17 @@ I am a **Senior Quality Technician at Computech International**, where I work wi
 
 I am also a **full-time student at Farmingdale State College**, where I am continuing to build my skills in software development, databases, project design, and application development.
 
-My goal is to build software that connects real workplace problems with useful, organized, and easy-to-use tools.
+Right now, I am focused on building software that connects real workplace problems with useful, organized, and easy-to-use tools. My main interests include inspection planning, data management, business applications, and tools that reduce repeated manual work.
 
 ---
 
-## Recent School Projects
+## Projects
 
 ### [PartPlan](https://github.com/austinaohara/PartPlan)
 
 PartPlan is a school project focused on inspection planning and part documentation. The goal of the project is to help organize inspection plans, drawing-related information, and measurement data in a more structured way.
 
-The project is based around a practical quality-control workflow, where users can manage plans, connect inspection details to parts, and make the process of recording information easier.
+This project connects closely with my quality-control background because it is based around real inspection workflows, where users need to manage plans, connect inspection details to parts, and record information clearly.
 
 **Highlights:**
 
@@ -46,8 +46,6 @@ Business_Management is a school project designed around managing business-relate
 
 ---
 
-## Featured Project
-
 ### Leeway Calculator
 
 Leeway Calculator is a private project designed for osu! score farming. The tool automatically calculates the maximum possible score on a beatmap after selecting it from the song screen.
@@ -69,6 +67,48 @@ Instead of watching the entire beatmap with the in-game Auto mod to determine th
 
 ---
 
+## What I Can Do
+
+### Software Development
+
+I can build practical software applications that organize data, support workflows, and solve specific problems.
+
+**Areas I am currently developing:**
+
+- Java applications
+- JavaFX desktop applications
+- C# applications
+- HTML, CSS, and JavaScript websites
+- Database-backed applications
+- Git and GitHub project workflows
+
+### Quality and Inspection Tools
+
+Because of my quality-control background, I am especially interested in software that supports inspection, manufacturing, and technical documentation.
+
+**Relevant areas:**
+
+- Inspection planning tools
+- Dimensional inspection workflows
+- CMM-related documentation
+- Measurement data organization
+- Tolerance and quality-related calculations
+- Workflow automation for repeated tasks
+
+### Web and UI Work
+
+I can create clean, organized interfaces for school projects, portfolio pages, and small applications.
+
+**Relevant areas:**
+
+- Simple portfolio websites
+- Frontend page layouts
+- User interface organization
+- Form-based data entry screens
+- Practical layouts for business or inspection tools
+
+---
+
 ## Skills
 
 ### Quality and Inspection
@@ -81,23 +121,18 @@ Instead of watching the entire beatmap with the in-game Auto mod to determine th
 - Tolerance review
 - Production problem solving
 
-### Software Development
+### Programming and Tools
 
 - Java
 - JavaFX
 - C#
-- HTML, CSS, and JavaScript
-- Git and GitHub
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
 - Database-backed applications
 - UI design for practical tools
-
----
-
-## Current Focus
-
-Right now, I am continuing to develop my software development skills while working full time in quality. My main focus is building projects that connect programming with inspection, business, and workflow problems.
-
-I am especially interested in tools that make it easier to organize technical information, reduce repeated manual work, calculate useful information automatically, and improve how data is stored and used.
 
 ---
 
