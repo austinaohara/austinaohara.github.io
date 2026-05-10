@@ -1,18 +1,16 @@
-## Senior Quality Technician | CMM Programming | Computer Science Student
+# Portfolio
 
-Welcome to my GitHub Pages site. I am a Senior Quality Technician at Computech International and a full-time student at Farmingdale State College. My work and studies focus on quality control, inspection systems, software development, and practical tools that improve real-world workflows.
-
-I am especially interested in combining manufacturing quality experience with programming to build applications that make inspection planning, data collection, scoring tools, and business processes easier to manage.
+This site highlights my current work, school projects, and personal software projects. My background is split between quality inspection work and software development, so most of my projects are focused on practical tools, organized data, and workflow improvement.
 
 ---
 
 ## About Me
 
-I currently work as a **Senior Quality Technician at Computech International**, where I work with inspection processes, quality control documentation, dimensional inspection, and CMM-related workflows.
+I am a **Senior Quality Technician at Computech International**, where I work with inspection processes, quality documentation, dimensional inspection, and CMM-related workflows.
 
 I am also a **full-time student at Farmingdale State College**, where I am continuing to build my skills in software development, databases, project design, and application development.
 
-My background gives me a mix of hands-on quality experience and technical software knowledge, which I try to bring into the projects I build.
+My goal is to build software that connects real workplace problems with useful, organized, and easy-to-use tools.
 
 ---
 
@@ -30,7 +28,7 @@ The project is based around a practical quality-control workflow, where users ca
 - Part and drawing organization
 - Measurement data tracking
 - Quality-control workflow support
-- Practical application design based on real manufacturing needs
+- Practical application design based on manufacturing needs
 
 ---
 
@@ -97,7 +95,7 @@ Instead of watching the entire beatmap with the in-game Auto mod to determine th
 
 ## Current Focus
 
-Right now, I am continuing to develop my software development skills while working full time in quality. My main focus is building projects that connect programming with real inspection, business, and workflow problems.
+Right now, I am continuing to develop my software development skills while working full time in quality. My main focus is building projects that connect programming with inspection, business, and workflow problems.
 
 I am especially interested in tools that make it easier to organize technical information, reduce repeated manual work, calculate useful information automatically, and improve how data is stored and used.
 
