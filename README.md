@@ -1,10 +1,10 @@
-# Austin O.
+# Austin O'Hara
 
 ## Senior Quality Technician | CMM Programming | Computer Science Student
 
 Welcome to my GitHub Pages site. I am a Senior Quality Technician at Computech International and a full-time student at Farmingdale State College. My work and studies focus on quality control, inspection systems, software development, and practical tools that improve real-world workflows.
 
-I am especially interested in combining manufacturing quality experience with programming to build applications that make inspection planning, data collection, and business processes easier to manage.
+I am especially interested in combining manufacturing quality experience with programming to build applications that make inspection planning, data collection, scoring tools, and business processes easier to manage.
 
 ---
 
@@ -60,12 +60,22 @@ Business_Management is a school project designed around managing business-relate
 
 ### Leeway Calculator
 
-Leeway Calculator is a private project at the moment, but it is one of the projects I want to highlight because it connects closely with practical problem-solving and workflow improvement.
+Leeway Calculator is a private project designed for osu! score farming. The tool automatically calculates the maximum possible score on a beatmap after selecting it from the song screen.
 
-The project is intended to help calculate allowable variation, tolerance-related values, or decision-support information in a faster and more consistent way. While the code is currently private, the project represents the type of tool I enjoy building: simple, useful software that solves a real problem.
+Instead of watching the entire beatmap with the in-game Auto mod to determine the max score, Leeway Calculator is intended to provide that information automatically. While playing, it actively reads game memory to track the current score state and determine whether any points were missed. From there, it updates the maximum possible score remaining for the play.
+
+**Key ideas:**
+
+- Automatically detects the selected osu! beatmap
+- Calculates the maximum possible score for the map
+- Reads live memory while the player is playing
+- Tracks whether points were missed during a run
+- Updates the remaining possible max score
+- Designed as a tool for osu! score farmers
+- Provides an alternative to using Auto mod just to check max score
 
 **Status:** Private repository  
-**Focus:** Quality, tolerance support, calculation assistance, workflow improvement
+**Focus:** osu!, score farming, live score tracking, memory reading, max-score calculation
 
 ---
 
@@ -97,6 +107,7 @@ The project is intended to help calculate allowable variation, tolerance-related
 - Inspection data systems
 - Manufacturing software tools
 - Business management applications
+- osu! score tools
 - Full-stack project development
 - Practical software for real workplace problems
 
@@ -106,7 +117,7 @@ The project is intended to help calculate allowable variation, tolerance-related
 
 Right now, I am continuing to develop my software development skills while working full time in quality. My main focus is building projects that connect programming with real inspection, business, and workflow problems.
 
-I am especially interested in tools that make it easier to organize technical information, reduce repeated manual work, and improve how data is stored and used.
+I am especially interested in tools that make it easier to organize technical information, reduce repeated manual work, calculate useful information automatically, and improve how data is stored and used.
 
 ---
 
@@ -116,12 +127,12 @@ I am especially interested in tools that make it easier to organize technical in
 |---|---|---|
 | [PartPlan](https://github.com/austinaohara/PartPlan) | Inspection planning and part documentation tool | School Project |
 | [Business_Management](https://github.com/austinaohara/Business_Management) | Business data and management application | School Project |
-| Leeway Calculator | Private calculator tool related to quality/tolerance workflows | Private |
+| Leeway Calculator | Private osu! tool that calculates beatmap max score and tracks missed points during play | Private |
 
 ---
 
 ## Contact
 
-You can view my work here on GitHub and follow my progress as I continue building projects related to software development, quality control, and workflow improvement.
+You can view my work here on GitHub and follow my progress as I continue building projects related to software development, quality control, workflow improvement, and scoring tools.
 
 **GitHub:** [austinaohara](https://github.com/austinaohara)
