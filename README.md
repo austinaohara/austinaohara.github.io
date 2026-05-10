@@ -1,3 +1,5 @@
+# Welcome
+
 Welcome to my portfolio. This site highlights my current work, school projects, and personal software projects. My background is split between quality inspection work and software development, so many of my projects focus on practical tools, organized data, and workflow improvement.
 
 ---
@@ -92,18 +94,6 @@ Because of my quality-control background, I am especially interested in software
 - Measurement data organization
 - Tolerance and quality-related calculations
 - Workflow automation for repeated tasks
-
-### Web and UI Work
-
-I can create clean, organized interfaces for school projects, portfolio pages, and small applications.
-
-**Relevant areas:**
-
-- Simple portfolio websites
-- Frontend page layouts
-- User interface organization
-- Form-based data entry screens
-- Practical layouts for business or inspection tools
 
 ---
 
