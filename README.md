@@ -1,5 +1,3 @@
-# Austin O'Hara
-
 ## Senior Quality Technician | CMM Programming | Computer Science Student
 
 Welcome to my GitHub Pages site. I am a Senior Quality Technician at Computech International and a full-time student at Farmingdale State College. My work and studies focus on quality control, inspection systems, software development, and practical tools that improve real-world workflows.
@@ -10,9 +8,9 @@ I am especially interested in combining manufacturing quality experience with pr
 
 ## About Me
 
-I currently work as a Senior Quality Technician at Computech International, where I work with inspection processes, quality control documentation, dimensional inspection, and CMM-related workflows.
+I currently work as a **Senior Quality Technician at Computech International**, where I work with inspection processes, quality control documentation, dimensional inspection, and CMM-related workflows.
 
-Alongside my professional work, I am a full-time student at Farmingdale State College, where I am continuing to build my skills in software development, databases, project design, and application development.
+I am also a **full-time student at Farmingdale State College**, where I am continuing to build my skills in software development, databases, project design, and application development.
 
 My background gives me a mix of hands-on quality experience and technical software knowledge, which I try to bring into the projects I build.
 
@@ -20,13 +18,13 @@ My background gives me a mix of hands-on quality experience and technical softwa
 
 ## Recent School Projects
 
-### PartPlan
+### [PartPlan](https://github.com/austinaohara/PartPlan)
 
-PartPlan is a school project focused on creating a tool for inspection planning and part documentation. The goal of the project is to help organize inspection plans, drawing-related information, and measurement data in a more structured way.
+PartPlan is a school project focused on inspection planning and part documentation. The goal of the project is to help organize inspection plans, drawing-related information, and measurement data in a more structured way.
 
 The project is based around a practical quality-control workflow, where users can manage plans, connect inspection details to parts, and make the process of recording information easier.
 
-**Key ideas:**
+**Highlights:**
 
 - Inspection plan management
 - Part and drawing organization
@@ -34,25 +32,19 @@ The project is based around a practical quality-control workflow, where users ca
 - Quality-control workflow support
 - Practical application design based on real manufacturing needs
 
-**Repository:**  
-[PartPlan](https://github.com/austinaohara/PartPlan)
-
 ---
 
-### Business_Management
+### [Business_Management](https://github.com/austinaohara/Business_Management)
 
 Business_Management is a school project designed around managing business-related information in a structured application. The project focuses on organizing data, supporting basic business operations, and applying software development concepts to a realistic management system.
 
-**Key ideas:**
+**Highlights:**
 
 - Business data organization
 - User interface design
 - Application structure
 - Database-style information management
 - Object-oriented programming concepts
-
-**Repository:**  
-[Business_Management](https://github.com/austinaohara/Business_Management)
 
 ---
 
@@ -64,7 +56,7 @@ Leeway Calculator is a private project designed for osu! score farming. The tool
 
 Instead of watching the entire beatmap with the in-game Auto mod to determine the max score, Leeway Calculator is intended to provide that information automatically. While playing, it actively reads game memory to track the current score state and determine whether any points were missed. From there, it updates the maximum possible score remaining for the play.
 
-**Key ideas:**
+**Highlights:**
 
 - Automatically detects the selected osu! beatmap
 - Calculates the maximum possible score for the map
@@ -79,7 +71,7 @@ Instead of watching the entire beatmap with the in-game Auto mod to determine th
 
 ---
 
-## Skills and Interests
+## Skills
 
 ### Quality and Inspection
 
@@ -89,7 +81,7 @@ Instead of watching the entire beatmap with the in-game Auto mod to determine th
 - Manufacturing documentation
 - Inspection planning
 - Tolerance review
-- Problem solving in production environments
+- Production problem solving
 
 ### Software Development
 
@@ -101,16 +93,6 @@ Instead of watching the entire beatmap with the in-game Auto mod to determine th
 - Database-backed applications
 - UI design for practical tools
 
-### Areas of Interest
-
-- Quality-control automation
-- Inspection data systems
-- Manufacturing software tools
-- Business management applications
-- osu! score tools
-- Full-stack project development
-- Practical software for real workplace problems
-
 ---
 
 ## Current Focus
@@ -121,7 +103,7 @@ I am especially interested in tools that make it easier to organize technical in
 
 ---
 
-## Projects
+## Project Overview
 
 | Project | Description | Status |
 |---|---|---|
@@ -132,8 +114,6 @@ I am especially interested in tools that make it easier to organize technical in
 ---
 
 ## Contact
-
-You can view my work here on GitHub and follow my progress as I continue building projects related to software development, quality control, workflow improvement, and scoring tools.
 
 **GitHub:** [austinaohara](https://github.com/austinaohara)  
 **LinkedIn:** [Austin O'Hara](https://www.linkedin.com/in/austin-o-hara-a497a0409/)
