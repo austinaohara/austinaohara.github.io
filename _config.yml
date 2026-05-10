@@ -1,0 +1,26 @@
+title: Austin O.
+description: Senior Quality Technician, CMM Programming, and Computer Science Student
+theme: minima
+
+author:
+  name: Austin O.
+
+github:
+  username: austinaohara
+
+projects:
+  partplan:
+    name: PartPlan
+    url: "https://github.com/austinaohara/PartPlan"
+    description: Inspection planning and part documentation tool
+
+  business_management:
+    name: Business_Management
+    url: "https://github.com/austinaohara/Business_Management"
+    description: Business data and management application
+
+  leeway_calculator:
+    name: Leeway Calculator
+    url: "#"
+    description: Private calculator tool related to quality and tolerance workflows
+    status: Private
